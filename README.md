@@ -99,3 +99,4 @@
   <li>The images in the gallery was taken from [pexels](https://www.pexels.com/pt-br/procurar/art/)</li>
 </ul>
 
+- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
