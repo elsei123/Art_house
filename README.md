@@ -71,10 +71,14 @@ This website was created for art lovers. Here, the user can learn more about us,
    - From the source section drop-down menu, select the Master Branch.
    - Once the master branch has been selected, the page provided the link to the completed website.
 
-   The live link can be found here [Art House]()
+   The live link can be found here [Art House](https://elsei123.github.io/Art_house/)
 
 ## Credits
 ### Content
 - The code to make the social media links was taken from the [Coffeehouse](https://learn.codeinstitute.net/sandbox/api/challenges/60338cca9c4983ac5d85512d/files/index.html) project 
 ### Media
  - The images in the gallery was taken from [Pexels](https://www.pexels.com/pt-br/procurar/art/)
+
+
+
+# 
