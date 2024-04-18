@@ -49,14 +49,14 @@ This website was created for art lovers. Here, the user can learn more about us,
 ## Validator Testing:
 
    - HTML
-      -- No errors were returned when passing through the official W3C validator.
+      - No errors were returned when passing through the official W3C validator.
    - CSS
    
-      --No errors were found when passing through the official (Jigsaw) validator.
+      - No errors were found when passing through the official (Jigsaw) validator.
     
    - Accessibility
     
-      --I confirmed that the colors and fonts chosen are easy to read and accessible by running it through Lighthouse.
+      - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through Lighthouse.
     
 
 <img width="518" alt="Captura de ecrã" src="https://github.com/elsei123/Art-House/assets/164704332/44f5cf45-e602-47d4-8f80-ea38868d2693">
@@ -75,6 +75,6 @@ This website was created for art lovers. Here, the user can learn more about us,
 
 ## Credits
 ### Content
-- The code to make the social media links was taken from the CI [Coffeehouse](https://learn.codeinstitute.net/sandbox/api/challenges/60338cca9c4983ac5d85512d/files/index.html) project 
+- The code to make the social media links was taken from the [Coffeehouse](https://learn.codeinstitute.net/sandbox/api/challenges/60338cca9c4983ac5d85512d/files/index.html) project 
 ### Media
  - The images in the gallery was taken from [Pexels](https://www.pexels.com/pt-br/procurar/art/)
