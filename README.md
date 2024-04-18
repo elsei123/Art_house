@@ -1,7 +1,7 @@
 <h1>ART HOUSE</h1>
 <p>This website was created for art lovers. Here, the user can learn more about us, who we are, and what we do. Further down, they can see some artworks already created. If they want more information, they can contact us by filling out the form below or visit our social media to learn more about our work.</p>
 
-<img width="975" alt="Captura de ecrã 2024-04-16, às 00 38 47" src="https://github.com/elsei123/Art-House/assets/164704332/be6eec6e-4ab8-4b2f-998f-dee3f644f53a">
+<img width="975" alt="Captura de ecrã" src="https://github.com/elsei123/Art-House/assets/164704332/be6eec6e-4ab8-4b2f-998f-dee3f644f53a">
 
 
 <h2>Navigation:</h2>
@@ -11,12 +11,12 @@
   <li>The navigation is in a font that resembles code and has a color that contrasts with the background.</li>
   <li>The navigation clearly tells the user the name of the club and website and makes the different sections of information easy to find.</li>
 </ul>
-<img width="1391" alt="Captura de ecrã 2024-04-16, às 00 41 09" src="https://github.com/elsei123/Art-House/assets/164704332/2387a954-146b-49b2-b082-9f24720cb280">
+<img width="1391" alt="Captura de ecrã" src="https://github.com/elsei123/Art-House/assets/164704332/2387a954-146b-49b2-b082-9f24720cb280">
 
 
 <h4>Upon entering the site, there is a catchy phrase inviting the user to explore more about the site.</h4>
 
-<img width="667" alt="Captura de ecrã 2024-04-16, às 00 40 09" src="https://github.com/elsei123/Art-House/assets/164704332/f5823372-be11-4fcf-83e7-9ec04a5341ae">
+<img width="667" alt="Captura de ecrã" src="https://github.com/elsei123/Art-House/assets/164704332/f5823372-be11-4fcf-83e7-9ec04a5341ae">
 
 <h2>About Us:</h2>
 <ul>
@@ -25,14 +25,14 @@
   </li>
 </ul>
 
-<img width="1293" alt="Captura de ecrã 2024-04-16, às 00 41 48" src="https://github.com/elsei123/Art-House/assets/164704332/69ce77a0-7f61-463c-9127-a4c409d2c034">
+<img width="1293" alt="Captura de ecrã" src="https://github.com/elsei123/Art-House/assets/164704332/69ce77a0-7f61-463c-9127-a4c409d2c034">
 
 
 <h2>Gallery:</h2>
 <ul>
   <li>In the gallery section, there are artworks and information about what they represent.</li>
 </ul>
-<img width="1279" alt="Captura de ecrã 2024-04-16, às 00 41 58" src="https://github.com/elsei123/Art-House/assets/164704332/5f2df8ac-8706-42b4-951a-759f8fadbfab">
+<img width="1279" alt="Captura de ecrã" src="https://github.com/elsei123/Art-House/assets/164704332/5f2df8ac-8706-42b4-951a-759f8fadbfab">
 
 <h2>Contact:</h2>
 <ul>
@@ -41,8 +41,8 @@
   </li>
 </ul>
 
-<img width="1247" alt="Captura de ecrã 2024-04-16, às 00 42 29" src="https://github.com/elsei123/Art-House/assets/164704332/6e2d27bd-5806-494d-9bce-02c4367633ad">
-<img width="464" alt="Captura de ecrã 2024-04-16, às 00 42 41" src="https://github.com/elsei123/Art-House/assets/164704332/902544c1-1158-41de-bd97-b110078515d8">
+<img width="1247" alt="Captura de ecrã" src="https://github.com/elsei123/Art-House/assets/164704332/6e2d27bd-5806-494d-9bce-02c4367633ad">
+<img width="464" alt="Captura de ecrã" src="https://github.com/elsei123/Art-House/assets/164704332/902544c1-1158-41de-bd97-b110078515d8">
 
 <h2>Testing:</h2>
 <ul>
@@ -71,7 +71,7 @@
   </li>
 </ul>
 
-<img width="518" alt="Captura de ecrã 2024-04-16, às 00 39 52" src="https://github.com/elsei123/Art-House/assets/164704332/44f5cf45-e602-47d4-8f80-ea38868d2693">
+<img width="518" alt="Captura de ecrã" src="https://github.com/elsei123/Art-House/assets/164704332/44f5cf45-e602-47d4-8f80-ea38868d2693">
 
 
 
@@ -91,7 +91,7 @@
 <H3>Content</H3>
 <ul>
   <li>
-    the code to make the social media links was taken from the CI (Coffeehouse)(https://learn.codeinstitute.net/sandbox/api/challenges/60338cca9c4983ac5d85512d/files/index.html) project 
+    The code to make the social media links was taken from the CI (Coffeehouse)(https://learn.codeinstitute.net/sandbox/api/challenges/60338cca9c4983ac5d85512d/files/index.html) project 
   </li>
 </ul>
 <h3>Media</h3>
