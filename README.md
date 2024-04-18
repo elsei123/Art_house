@@ -77,7 +77,7 @@
 
 <h2>Deployment</h2>
 <ul>
-  <li>the site was deployed to GitHub pages. the steps to deploy are as follows:
+  <li>The site was deployed to GitHub pages. the steps to deploy are as follows:
     <ul>
       <li>In the GitHub repository, navigate to the settings tab</li>
       <li>From the source section drop-down menu, select the Master Branch</li>
