@@ -10,7 +10,7 @@ This website was created for art lovers. Here, the user can learn more about us,
  - The other navigation links are to the right: About us, Gallery, and Contact, which link to different sections of the same page.
  - The navigation is in a font that resembles code and has a color that contrasts with the background.
  - The navigation clearly tells the user the name of the club and website and makes the different sections of information easy to find.
- - 
+   
 <img width="1391" alt="Captura de ecrã" src="https://github.com/elsei123/Art-House/assets/164704332/2387a954-146b-49b2-b082-9f24720cb280">
 
 
