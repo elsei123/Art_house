@@ -13,13 +13,14 @@ body {
     color: #333;
 }
 
-/* header */
+/* Container */
 .container {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
 }
 
+/* Header */
 header {
     background-color: #333;
     color: #fff;
@@ -32,18 +33,24 @@ header h1 {
 
 /* navegation */
 nav ul {
+    display: flex;
+    justify-content: flex-end;
     list-style: none;
+    padding-left: 0;
 }
 
 nav ul li {
-    display: inline;
     margin-right: 20px;
-    float: right;
 }
 
 nav ul li a {
     color: #fff;
     text-decoration: none;
+}
+
+nav ul li a:focus,
+nav ul li a:hover {
+    text-decoration: underline;
 }
 
 /* main content */
