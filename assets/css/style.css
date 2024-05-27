@@ -119,6 +119,8 @@ form button {
 form input,
 form textarea {
     padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
 }
 
 form button {
@@ -128,6 +130,7 @@ form button {
     padding: 10px 20px;
     cursor: pointer;
     transition: background-color 0.3s ease;
+    border-radius: 5px;
 }
 
 form button:hover {
