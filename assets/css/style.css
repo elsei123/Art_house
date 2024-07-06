@@ -147,13 +147,15 @@ artwork-item p {
 }
 
 /* submit button */
-form label,
-form input,
-form textarea,
-form button {
-    display: block;
-    margin-bottom: 10px;
-    width: 100%;
+form {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+}
+
+form label {
+    font-size: 16px;
+    color: var(--primary-color);
 }
 
 form input,
