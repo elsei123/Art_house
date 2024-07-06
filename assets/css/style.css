@@ -6,6 +6,18 @@
 }
 
 /* Global Styles */
+
+:root {
+    --font-family: 'Arial', sans-serif;
+    --line-height: 1.6;
+    --bg-color: #f8f8f8;
+    --text-color: #333;
+    --primary-color: #333;
+    --secondary-color: #555;
+    --accent-color: #fff;
+    --container-width: 1200px;
+}
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
