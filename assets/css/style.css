@@ -147,7 +147,7 @@ artwork-item p {
     color: var(--text-color);
 }
 
-/* submit button */
+/* Form */
 form {
     display: grid;
     grid-template-columns: 1fr;
@@ -202,18 +202,19 @@ form button:hover {
 }
 
 .social-links li {
-    display: inline;
-    margin-right: 10px;
+    display: inline-block;
+    margin-right: 15px;
 }
 
-social-links li:last-child {
+.social-links li:last-child {
     margin-right: 0;
 }
 
-social-links a {
+.social-links a {
     color: var(--accent-color);
     text-decoration: none;
     font-size: 16px;
+    transition: transform 0.3s ease, color 0.3s ease;
 }
 
 social-links a:hover {
