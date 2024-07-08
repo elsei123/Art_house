@@ -221,3 +221,7 @@ form button:hover {
     color: var(--secondary-color);
     transform: scale(1.1);
 }
+
+.social-links a i {
+    font-size: var(--social-icon-size);
+}
