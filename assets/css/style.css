@@ -217,6 +217,7 @@ form button:hover {
     transition: transform 0.3s ease, color 0.3s ease;
 }
 
-social-links a:hover {
-    text-decoration: underline;
+.social-links a:hover {
+    color: var(--secondary-color);
+    transform: scale(1.1);
 }
