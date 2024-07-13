@@ -261,3 +261,9 @@ form button:hover {
 .social-links a i {
     font-size: var(--social-icon-size);
 }
+
+/* Gallery Page Styles */
+body.gallery {
+    background-color: var(--gallery-bg-color);
+}
+
