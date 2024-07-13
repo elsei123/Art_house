@@ -277,3 +277,17 @@ body.gallery {
     color: var(--accent-color);
     border-radius: 5px;
 }
+
+.cta p {
+    font-size: 20px;
+}
+
+.cta a {
+    color: var(--accent-color);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.cta a:hover {
+    text-decoration: underline;
+}
