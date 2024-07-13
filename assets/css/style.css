@@ -168,6 +168,21 @@ artwork-item p {
     color: var(--text-color);
 }
 
+/* Checkbox for image zoom */
+.toggle-description {
+    display: none;
+}
+
+.toggle-description:checked+.description {
+    display: block;
+    position: relative;
+}
+
+.artwork-item:hover .toggle-description+.description {
+    display: block;
+    position: relative;
+}
+
 /* Form */
 form {
     display: grid;
