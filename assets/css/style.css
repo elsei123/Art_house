@@ -267,3 +267,13 @@ body.gallery {
     background-color: var(--gallery-bg-color);
 }
 
+/* Call to Action */
+.cta {
+    text-align: center;
+    margin-top: 50px;
+    /* Increased margin for better highlight */
+    padding: 20px;
+    background-color: var(--primary-color);
+    color: var(--accent-color);
+    border-radius: 5px;
+}
