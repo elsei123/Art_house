@@ -144,10 +144,14 @@ section h2 {
     display: block;
 }
 
-.artwork-item h3,
-.artwork-item p {
-    text-align: center;
-    font-size: 15px;
+.artwork-item .description {
+    display: none;
+    padding: 15px;
+    background: var(--accent-color);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .artwork-item h3 {
