@@ -47,6 +47,15 @@ header h1 {
     text-align: center;
 }
 
+header h1 a {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+header h1 a:hover {
+    text-decoration: underline;
+}
+
 /* navegation */
 nav ul {
     display: flex;
