@@ -40,7 +40,7 @@ header {
 }
 
 header h1 {
-    font-size: 24px;
+    font-size: 40px;
     margin: 0;
     text-align: center;
 }
@@ -73,7 +73,7 @@ nav ul li:last-child {
 nav ul li a {
     color: var(--accent-color);
     text-decoration: none;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 nav ul li a:focus,
@@ -254,7 +254,7 @@ form button:hover {
 }
 
 .social-links a i {
-    font-size: var(--social-icon-size);
+    font-size: 35px;
 }
 
 /* Gallery Page Styles */
@@ -267,7 +267,7 @@ body.gallery {
     text-align: center;
     margin-top: 50px;
     padding: 20px;
-    background-color: #f06; /* same color as the banner */
+    background-color: linear-gradient(135deg, #f06, #f9a);
     color: var(--accent-color);
     border-radius: 5px;
 }
