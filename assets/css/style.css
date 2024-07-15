@@ -267,7 +267,7 @@ body.gallery {
     text-align: center;
     margin-top: 50px;
     padding: 20px;
-    background-color: linear-gradient(135deg, #f06, #f9a);
+    background: linear-gradient(135deg, #f06, #f9a);
     color: var(--accent-color);
     border-radius: 5px;
 }
