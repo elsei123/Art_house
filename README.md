@@ -7,76 +7,110 @@ The Art House is a digital gallery created by a passionate group of art enthusia
 
 ## Navigation:
 
- - Featured at the top of the page, the navigation shows the website name in the left corner: ART HOUSE.
- - The other navigation links are to the right: About us, Gallery, and Contact, which link to different sections of the same page.
- - The navigation is in a font that resembles code and has a color that contrasts with the background.
- - The navigation clearly tells the user the name of the club and website and makes the different sections of information easy to find.
+- __Art House:__ The name of the site, which also functions as a link to the homepage, allowing easy return to the main page.
+
+- __About Us:__ Here visitors can learn more about our team, mission, and vision. This section offers a comprehensive overview of who we are, what we do, and why art is so important to us.
+
+- __Gallery:__ Leads to our art gallery, showcasing a variety of carefully selected artworks. The gallery is a visual showcase that highlights the talent and creativity of various artists.
+
+- __Contact:__ This section directs to the contact form, allowing visitors to get in touch with us.
    
 <img width="1391" alt="Captura de ecrã 2024-04-16, às 00 41 09" src="https://github.com/elsei123/Art_house/assets/164704332/6a351aac-4e20-482d-883d-53090d1dd658">
 
 
+## Header
+The header of the site is composed of the site name, "Art House," and the main navigation. The site name is displayed in a large and stylish font, standing out against the dark background, and is clickable, bringing the user back to the homepage from any section of the site. The navigation is clear and easy to use, allowing visitors to quickly find the information they are looking for.
 
-#### Upon entering the site, there is a catchy phrase inviting the user to explore more about the site.
+## Banner
+The banner section is the first thing visitors see when they access the site. This visually appealing space includes:
 
-<img width="667" alt="Captura de ecrã 2024-04-16, às 00 40 09" src="https://github.com/elsei123/Art_house/assets/164704332/bdf2187c-4510-4dfe-9902-5d101ed585c9">
+- __Title:__ __"Explore the Beauty of Art"__ - a call to action that invites visitors to delve into the world of art. This title inspires curiosity and encourages visitors to explore the site further.
+- __Description:__ __"A unique collection of artworks to inspire and enchant."__ - a brief description highlighting the uniqueness and charm of the presented artworks. This text introduces the quality and diversity of our art collection.
 
+The banner section uses a gradient of vibrant colors to capture visitors' attention, creating an inviting atmosphere. The combination of colors and elegant design makes visitors feel welcome and interested in exploring more.
 
-## About Us:
+## About Us
+The About Us section provides an in-depth look at who we are and what we do. This section includes:
 
- - In the About Us section, we welcome visitors to the site and provide information about who we are and what we do.
-  
-<img width="1293" alt="Captura de ecrã 2024-04-16, às 00 41 48" src="https://github.com/elsei123/Art_house/assets/164704332/8915216e-c8a2-443e-a915-360101b61fb2">
+- __Introduction:__ __"Welcome to Art House, your online destination for art enthusiasts around the globe!"__ - a warm message inviting visitors to join us in celebrating art.
 
+- __Our Mission:__ Explains that we are an international team of art aficionados united by our passion for creativity and expression. Our mission is to connect people through art and inspire a greater appreciation for the beauty and diversity of artistic expressions.
 
+- __Our Collection:__ Details the diversity of artworks, covering various styles, mediums, and cultures. We highlight how our collection includes pieces from emerging and established artists, offering a rich and varied experience.
 
-## Gallery:
+- __Invitation to Explore:__ Encourages visitors to explore the collection, immerse themselves in captivating visuals, and discover the profound stories behind each piece. We invite everyone to join this artistic journey and be inspired by the stories and emotions our pieces evoke.
 
-  - In the gallery section, there are artworks and information about what they represent.
+- __Welcome Message:__ __"Join us as we celebrate the transformative power of art and the boundless creativity that connects us all."__ - a call to action reinforcing our commitment to art and the artistic community.
 
-<img width="1279" alt="Captura de ecrã 2024-04-16, às 00 41 58" src="https://github.com/elsei123/Art_house/assets/164704332/ef93c0cd-b123-4306-a612-c8c76c6fbf33">
+## Gallery
+The Gallery section is the heart of our site, showcasing a curated selection of artworks. This section is divided into two main parts:
 
+### Gallery on the Homepage
 
-## Contact:
+- On the homepage, the gallery presents a sample of available artworks, each with a brief description.
 
- - In this section, users can contact us by filling out the form below, entering their name, email, and message. Below, there are also links to our social media where users can learn more about our work.
-  
-<img width="1247" alt="Captura de ecrã 2024-04-16, às 00 42 29" src="https://github.com/elsei123/Art_house/assets/164704332/7985bf62-b3cd-4dc9-9aed-6a9b861cbbfb">
-<img width="464" alt="Captura de ecrã 2024-04-16, às 00 42 41" src="https://github.com/elsei123/Art_house/assets/164704332/b94692f8-14b3-4c16-899c-bf1bdc80da44">
+- Additionally, just below the gallery on the homepage, there is a catchy phrase that invites visitors to explore more artworks: "For more artworks, click here." Clicking on this directs visitors to the secondary gallery page, where they can view a more extensive and detailed collection of artworks.
 
+### Gallery on the Secondary Page
 
+- The secondary gallery page offers a more interactive and detailed experience. When hovering over the images, visitors can see additional descriptions and information about each artwork
 
-## Testing:
-
- - I tested that this page works in different browsers: Chrome, Firefox, Safari.
- - I confirmed that this project is responsive, looks good, and functions on all standard screen sizes using the devtools device toolbar.
- - I confirmed that the navigation, header, about us, sign up, and contact text are all readable and easy to understand.</li>
- I have confirmed that the form works: it requires entries in every field, only accepts an email in the email field, and the submit button works.
-
-## Validator Testing:
-
-   - HTML
-      - No errors were returned when passing through the official W3C validator.
-   - CSS
-   
-      - No errors were found when passing through the official (Jigsaw) validator.
-    
-   - Accessibility
-    
-      - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through Lighthouse.
-    
-<img width="518" alt="Captura de ecrã 2024-04-16, às 00 39 52" src="https://github.com/elsei123/Art_house/assets/164704332/4f1fc100-3727-4be8-a5dd-dc5ca5ba6571">
+- The gallery uses a responsive grid layout, ensuring that artworks are displayed in an organized and visually appealing manner on any device. The user experience is optimized to provide smooth and enjoyable navigation.
 
 
+## Contact
+In the Contact section, visitors can get in touch with us by filling out a simple form. This section includes:
 
+- __Contact Form:__ Fields for name, email, and message, allowing visitors to send their questions, comments, or requests for additional information. This form is designed to be user-friendly and ensures that all messages are received and responded to promptly.
+
+- __Social Media Links:__ Clickable icons that direct to our Facebook, Twitter, and Instagram pages, where visitors can follow our updates and interact with us. Social media is a vital extension of our online presence, facilitating continuous engagement with our community.
+
+## Testing and Validation
+
+We ensure that our site works perfectly and is accessible to all users through a series of rigorous tests:
+
+- __Browser Compatibility:__ Tested on Chrome, Firefox, and Safari to ensure consistent functionality. We make sure all site features operate smoothly across various browsers, providing a uniform user experience.
+
+- __Responsiveness:__ Verified on various screen sizes using the DevTools device tool. The responsive design ensures the site adapts efficiently to different screen resolutions, from mobile devices to desktop monitors.
+
+- __Form Validation:__ All form fields are mandatory and only accept valid entries. We implemented JavaScript validation to provide instant feedback to users and ensure data accuracy.
+
+- __HTML and CSS Validation:__ Passed official W3C and Jigsaw validators without errors. Compliance with web standards ensures our site is robust and compatible with future browser updates.
+
+- __Accessibility:__ Colors and fonts were chosen to ensure readability and accessibility, as verified by Lighthouse. We prioritize an inclusive experience for all users, regardless of their abilities.
+
+## Bugs 
+
+### Found and Solutions
+During the development of the site, we encountered a few bugs that were promptly resolved:
+
+#### Image Loading Issues
+
+- __Description:__ Some images did not load correctly on certain devices and browsers.
+
+- __Solution:__ Optimized the size and format of images and ensured all image paths were correct in the code. Implemented a fallback for alternative images in case the main image failed.
+
+#### Contact Form Not Sending Messages
+
+- __Description:__ The contact form submit button did not function correctly in some browsers, preventing messages from being sent.
+
+- __Solution:__ Reviewed the form code and adjusted the action and method attributes, ensuring all mandatory fields were properly configured. Also added JavaScript validation for instant feedback.
+
+#### Social Media Links Not Opening in New Tab
+
+- __Description:__ The social media links opened in the same tab, causing users to leave the site.
+
+- __Solution:__ Added the target="_blank" attribute to the social media links to ensure they open in a new tab, keeping users on the site while they explore our social profiles.
 
 ## Deployment
 
- - The site was deployed to GitHub pages. the steps to deploy are as follows:
+- Our site was deployed to GitHub Pages following the steps below:
 
-   - In the GitHub repository, navigate to the settings tab.
-   - From the source section drop-down menu, select the Master Branch.
-   - Once the master branch has been selected, the page provided the link to the completed website.
+- Navigate to the settings tab in the GitHub repository.
 
+- Select the "Master" branch in the source section dropdown menu.
+
+- Once the branch is selected, the page provides the link to the completed website.
    The live link can be found here [Art House](https://elsei123.github.io/Art_house/)
 
 ## Credits
