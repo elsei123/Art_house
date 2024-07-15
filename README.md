@@ -67,9 +67,8 @@ The Gallery section is the heart of our site, showcasing a curated selection of 
 
 - The gallery uses a responsive grid layout, ensuring that artworks are displayed in an organized and visually appealing manner on any device. The user experience is optimized to provide smooth and enjoyable navigation.
 
-<img width="1270" alt="Captura de ecrã 2024-07-15, às 05 31 46" src="https://github.com/user-attachments/assets/e8da5c33-b02f-4a75-b972-0adc315de996">
+<img width="1270" alt="Captura de ecrã 2024-07-15, às 05 31 46" src="https://github.com/user-attachments/assets/6fa558c1-1f59-45e7-ab46-f0a5883159e2">
 
-<img width="1440" alt="Captura de ecrã 2024-07-15, às 05 31 59" src="https://github.com/user-attachments/assets/a85d3742-1cc0-421c-86ee-273222620f59">
 
 
 ## Contact
