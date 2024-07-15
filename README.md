@@ -1,5 +1,5 @@
 # ART HOUSE
-This website was created for art lovers. Here, the user can learn more about us, who we are, and what we do. Further down, they can see some artworks already created. If they want more information, they can contact us by filling out the form below or visit our social media to learn more about our work
+The Art House is a digital gallery created by a passionate group of art enthusiasts from around the world, united by their love for creativity and expression. Our platform showcases a curated selection of stunning artworks, spanning various styles, mediums, and cultures. Whether you are an experienced art connoisseur or someone who simply appreciates beauty, we invite you to explore the depths of human imagination through our collection.
 
 <img width="975" alt="Captura de ecrã 2024-04-16, às 00 38 47" src="https://github.com/elsei123/Art_house/assets/164704332/c6583246-2b12-40a0-a0d1-ba3ee9a694ce">
 
