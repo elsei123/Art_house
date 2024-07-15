@@ -1,7 +1,7 @@
 # ART HOUSE
 The Art House is a digital gallery created by a passionate group of art enthusiasts from around the world, united by their love for creativity and expression. Our platform showcases a curated selection of stunning artworks, spanning various styles, mediums, and cultures. Whether you are an experienced art connoisseur or someone who simply appreciates beauty, we invite you to explore the depths of human imagination through our collection.
 
-<img width="975" alt="Captura de ecrã 2024-04-16, às 00 38 47" src="https://github.com/elsei123/Art_house/assets/164704332/c6583246-2b12-40a0-a0d1-ba3ee9a694ce">
+<img width="1053" alt="Captura de ecrã 2024-07-15, às 05 27 16" src="https://github.com/user-attachments/assets/618abbcd-7b91-410e-aa7c-71b6154c285d">
 
 
 
@@ -15,7 +15,8 @@ The Art House is a digital gallery created by a passionate group of art enthusia
 
 - __Contact:__ This section directs to the contact form, allowing visitors to get in touch with us.
    
-<img width="1391" alt="Captura de ecrã 2024-04-16, às 00 41 09" src="https://github.com/elsei123/Art_house/assets/164704332/6a351aac-4e20-482d-883d-53090d1dd658">
+<img width="620" alt="Captura de ecrã 2024-07-15, às 05 27 54" src="https://github.com/user-attachments/assets/4b2a798e-6fac-43f4-a330-e917515ccb14">
+
 
 
 ## Header
@@ -28,6 +29,9 @@ The banner section is the first thing visitors see when they access the site. Th
 - __Description:__ __"A unique collection of artworks to inspire and enchant."__ - a brief description highlighting the uniqueness and charm of the presented artworks. This text introduces the quality and diversity of our art collection.
 
 The banner section uses a gradient of vibrant colors to capture visitors' attention, creating an inviting atmosphere. The combination of colors and elegant design makes visitors feel welcome and interested in exploring more.
+
+<img width="885" alt="Captura de ecrã 2024-07-15, às 05 28 53" src="https://github.com/user-attachments/assets/f78a1523-c16a-4bed-98a8-5ff097fade92">
+
 
 ## About Us
 The About Us section provides an in-depth look at who we are and what we do. This section includes:
@@ -42,6 +46,9 @@ The About Us section provides an in-depth look at who we are and what we do. Thi
 
 - __Welcome Message:__ __"Join us as we celebrate the transformative power of art and the boundless creativity that connects us all."__ - a call to action reinforcing our commitment to art and the artistic community.
 
+  <img width="1311" alt="Captura de ecrã 2024-07-15, às 05 29 23" src="https://github.com/user-attachments/assets/1367b55a-a664-4f5d-9017-75554d399cdf">
+
+
 ## Gallery
 The Gallery section is the heart of our site, showcasing a curated selection of artworks. This section is divided into two main parts:
 
@@ -51,11 +58,18 @@ The Gallery section is the heart of our site, showcasing a curated selection of 
 
 - Additionally, just below the gallery on the homepage, there is a catchy phrase that invites visitors to explore more artworks: "For more artworks, click here." Clicking on this directs visitors to the secondary gallery page, where they can view a more extensive and detailed collection of artworks.
 
+  <img width="1237" alt="Captura de ecrã 2024-07-15, às 05 30 00" src="https://github.com/user-attachments/assets/e42b2d03-33db-4c6a-831e-afb4d22c14e6">
+
+
 ### Gallery on the Secondary Page
 
 - The secondary gallery page offers a more interactive and detailed experience. When hovering over the images, visitors can see additional descriptions and information about each artwork
 
 - The gallery uses a responsive grid layout, ensuring that artworks are displayed in an organized and visually appealing manner on any device. The user experience is optimized to provide smooth and enjoyable navigation.
+
+<img width="1270" alt="Captura de ecrã 2024-07-15, às 05 31 46" src="https://github.com/user-attachments/assets/e8da5c33-b02f-4a75-b972-0adc315de996">
+
+<img width="1440" alt="Captura de ecrã 2024-07-15, às 05 31 59" src="https://github.com/user-attachments/assets/a85d3742-1cc0-421c-86ee-273222620f59">
 
 
 ## Contact
@@ -64,6 +78,9 @@ In the Contact section, visitors can get in touch with us by filling out a simpl
 - __Contact Form:__ Fields for name, email, and message, allowing visitors to send their questions, comments, or requests for additional information. This form is designed to be user-friendly and ensures that all messages are received and responded to promptly.
 
 - __Social Media Links:__ Clickable icons that direct to our Facebook, Twitter, and Instagram pages, where visitors can follow our updates and interact with us. Social media is a vital extension of our online presence, facilitating continuous engagement with our community.
+
+  <img width="1321" alt="Captura de ecrã 2024-07-15, às 05 32 37" src="https://github.com/user-attachments/assets/69f183e2-a100-4975-a5e9-004d4a329e0b">
+
 
 ## Testing and Validation
 
