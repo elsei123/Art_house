@@ -4,8 +4,8 @@ The Art House is a digital gallery created by a passionate group of art enthusia
 <img width="1053" alt="Captura de ecrã 2024-07-15, às 05 27 16" src="https://github.com/user-attachments/assets/618abbcd-7b91-410e-aa7c-71b6154c285d">
 
 
-
-## Navigation:
+## Features 
+### Navigation:
 
 - __Art House:__ The name of the site, which also functions as a link to the homepage, allowing easy return to the main page.
 
@@ -86,7 +86,7 @@ In the Contact section, visitors can get in touch with us by filling out a simpl
 ## Testing
 
 - I tested this page in different browsers: Chrome and Safari.
-- 
+
 - I confirmed that this project is responsive, looks good, and functions on all standard screen sizes using the DevTools device toolbar.
 
 - I confirmed that the navigation, header, About Us, gallery, and contact sections are all readable and easy to understand.
@@ -131,9 +131,9 @@ During the development of the site, I encountered a few bugs that were promptly 
 
 - The site was deployed to GitHub Pages by following the steps below:
 
-- In the GitHub repository, navigate to the __Settings__ tab.
+- In the GitHub repository, navigate to the __settings__ tab.
 
-- From the __Source__ section drop-down menu, select the __main branch__.
+- From the __source__ section drop-down menu, select the __main branch__.
 
 - Once the branch is selected, the page provides the link to the completed website.
    The live link can be found here [Art House](https://elsei123.github.io/Art_house/)
